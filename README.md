@@ -7,6 +7,9 @@ text som ska stå. Till sist har vi constraints, left/right är satt till parent
 mitten, top och bottom har constraints med elementen ovanför/under för att få knappen mellan
 imageview och ratingbar widget föremålen.
 
+Bilden som används i imageview ligger under public domain:
+https://openverse.org/image/e7711433-fba9-4906-b981-e1ff714da9a9?q=seal
+
 ```
         <Button
             android:id="@+id/button"
